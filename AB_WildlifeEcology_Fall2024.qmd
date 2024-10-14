@@ -118,3 +118,43 @@ It is important to remember that disease models a more of a representation, and 
 Disease models should be used alongside other tools for making wildlife disease management decisions because of the limitations previously explained. Laboratory studies have always been used to test hypotheses and can be a tool when studying pathogens. Being able to characterize the spread of the disease in the lab can be transferred to real-world application. To get a better idea of the environment that the disease is spreading in, field sampling and surveys can be done. Field work always entails some kind of observations which is perhaps the first tool used for making wildlife disease management decisions. Integrating epidemiological models with ecological models could enhance their predictability and power, improving some of the limitations associated with the individual models. All of these tools can be used in tandem with disease models, but they can also be used to improve disease models by continuously updating the parameters. By updating the parameters of the models to more closely resemble the realistic ecological interactions and environment, the model will be more accurate in its predictions.
 
 The Starfield essay argued that disease models were essential to successful environmental management decisions and interventions, even going so far as to saying that small, pragmatic models will become a part of wildlife professional’s everyday lives. Encouraging professionals to integrate models into their practices is difficult, but it will greatly enhance the success rate of disease interventions. In conclusion, disease models provide useful templates for testing intervention strategies on a population, but they do have some limitations. Using models with other tools like laboratory testing, field observations, and integrating multiple models, can improve its reliability and improve wildlife disease management outcomes.
+
+------------------------------------------------------------------------
+
+### 10/14/24 Exam 1 Rework
+
+**4b)** **Name the dead-end host for *Dicrocoelium dendriticum*.** There is no dead-end host.
+
+**7c)** **Estimate the upper bound of prevalence for exposure to *T. gondii* each of these populations. Also. provide the confidence level for these prevalence values.**
+
+Seal Bay: 3/98 = 0.03, \<3% with 95% confidence
+
+Olive Island: 3/65 = 0.045, \<5% with 95% confidence
+
+Dangerous Reef: 3/21 = 0.14, \<14% with 95% confidence
+
+**8a)** **Which year has the highest incidence for deer fibroma? Make sure you write appropriate unit for incidence value.**
+
+Year 2020: 0/(220-6) = 0 cases per deer-year.
+
+Year 2020 has the lowest incidence value of 0 cases per deer-year.
+
+**8b) When is prevalence lowest? Write unit for prevalence if applicable.**
+
+Year 2015: (3+0)/225 = 0.013
+
+Year 2015 has the lowest prevalence of 0.013.
+
+<https://github.com/aliboardwine/Wildlife_Ecology/blob/main/Exam%201%20Rework%20Question%208.png>
+
+**12) Bonus**
+
+P = 5400(0.50) = 2700 adults and 2700 juveniles
+
+I = 2700(0.40) = 1080 adults immune
+
+VC = 1 - 1/R0 = 1 - 1/3 = 0.67 = 67%
+
+5400(0.67) = 3618 - 1080 = 2538
+
+2538 seals should be vaccinated in order to achieve herd immunity when R0=3.
