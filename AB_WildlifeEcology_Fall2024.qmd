@@ -158,3 +158,11 @@ VC = 1 - 1/R0 = 1 - 1/3 = 0.67 = 67%
 5400(0.67) = 3618 - 1080 = 2538
 
 2538 seals should be vaccinated in order to achieve herd immunity when R0=3.
+
+### 10/27/24 Fecal Flotation Lab Activity
+
+The purpose of doing these fecal flotations was to identify Helmiths parasites in dairy cows. Fecal flotations are done on freshly acquired fecal matter to count the number of parasitic eggs to determine the estimated number of total parasites in the animal. This information can be used to recommend when these animals are dewormed and how often.
+
+The procedure of these fecal flotations are as follows. 2 grams of fecal matter is weighed out in a cup. Then 13 mL of tap water is added to the fecal matter and the slurry is mixed well. The slurry is passed through a strainer to separate the larger solid pieces and then transferred into a 50 mL tube. 1 mL of sugar solution is placed into a 5 mL tube and a total of 1 mL of fecal slurry is added after being mixed in a vortex. The specific gravity of the solution depends on the density of the parasite. This sugar solution's specific gravity is 1.27 which allows for the Helmiths eggs to float to the top of the solution. The solution in the 5 mL tube is mixed well then used to fill an egg counting slide which has two grids on either side. Both chambers were filled using a pipette and left for five minutes to let the eggs float to the top of the slide to be counted. Under a microscope, the number of eggs in each block was counted. Each egg counted in this 1 mL sample equates to 50 eggs per gram of feces.
+
+This calculations allows you to determine if the level of parasite infection is problematic and if/how often the animal should be dewormed. In this case, you cannot tell the exact species of the parasitic worm from the eggs, you have to do DNA testing.
